@@ -1,2 +1,5 @@
-# Ejercicios-SSOO
-Ejercicios sistemas operativos 2º
+# Ejercicios Sistemas Operativos
+## Thinks to remember
+* All to lowercase: tr '[:upper:]' '[:lower:]'
+* All to upercase: tr '[:lower:]' '[:upper:]'
+* Get first letter: firstLetter=${word:0:1}
