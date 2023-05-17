@@ -1,0 +1,92 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cmath": "cpp",
+    "cstdarg": "cpp",
+    "cstddef": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cstring": "cpp",
+    "ctime": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "complex": "cpp",
+    "condition_variable": "cpp",
+    "cstdint": "cpp",
+    "deque": "cpp",
+    "unordered_map": "cpp",
+    "exception": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "map": "cpp",
+    "memory": "cpp",
+    "memory_resource": "cpp",
+    "numeric": "cpp",
+    "optional": "cpp",
+    "random": "cpp",
+    "ratio": "cpp",
+    "set": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "system_error": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "fstream": "cpp",
+    "initializer_list": "cpp",
+    "iomanip": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "mutex": "cpp",
+    "new": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "thread": "cpp",
+    "cinttypes": "cpp",
+    "typeinfo": "cpp",
+    "bit": "cpp",
+    "list": "cpp",
+    "cfenv": "cpp",
+    "stdlib.h": "c",
+    "concepts": "c",
+    "semaphore": "c",
+    "stop_token": "c"
+  },
+  "makefile.configurations": [
+    {
+        "name": "Default",
+        "makeArgs": []
+    },
+    {
+        "name": "Clean",
+        "makeArgs": ["clean"]
+    }
+  ],
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/javier/Universidad/Segundo/Diseño/p4-implclases-JavierIzqUni/build",
+      "binaryPath": "/home/javier/Universidad/Segundo/Diseño/p4-implclases-JavierIzqUni/build/main",
+      "binaryArgs": []
+    }
+  ],    // Set the e-mail address of the author.  Replaces {email}.
+  "doxdocgen.generic.authorEmail": "j.izquierdoh.2021@alumnos.urjc.es",
+
+  // Set the name of the author.  Replaces {author}.
+  "doxdocgen.generic.authorName": "Javier Izquierdo Hernandez",
+  "workbench.colorCustomizations": {
+    "statusBar.background" : "#2b11a0",
+    "activityBar.background" : "#2b11a0"
+  }
+}
